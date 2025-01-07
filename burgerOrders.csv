@@ -1,0 +1,6 @@
+numHamburgers,numCheeseburgers,numVeggieburgers,numSodas,orderToGo,orderNum,customerName,customerPhone
+3,15,4,10,false,1,John Doe,5551234567
+10,10,3,3,true,2,Jane Smith,5559876543
+1,1,1,2,false,3,Robert Brown,5556543210
+4,4,4,4,true,4,Alice Green,5553216549
+5,5,5,5,false,5,Chris Blue,5559873211
